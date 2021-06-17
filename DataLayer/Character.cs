@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace DataLayer
 {
-    public class Class1
+    public class Character
     {
+        public string CharacterName { get; set; }
     }
 }
